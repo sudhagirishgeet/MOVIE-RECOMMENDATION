@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
 import axios from "axios";
 
-const PY_URL = "https://movies-recommendation-system-70ns.onrender.com";
+const PY_URL = "http://127.0.0.1:8000";
 const TMDB_KEY = "128694e67f08e5e75b7877b59f232011";
 const IMG_BASE = "https://image.tmdb.org/t/p/original";
 

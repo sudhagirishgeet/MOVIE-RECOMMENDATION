@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import { Link, useNavigate } from "react-router-dom";
 
-const PY_URL = "https://movies-recommendation-system-70ns.onrender.com";
+const PY_URL = "http://127.0.0.1:8000";
 
 const Signup = () => {
   const [email, setEmail] = useState("");
