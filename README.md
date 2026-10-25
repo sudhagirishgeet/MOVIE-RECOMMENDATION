@@ -165,7 +165,7 @@ The backend must be running for authentication, movie data, watchlist, and recom
 
 ## 👨‍💻 Author
 
-**Satyam Shrivastav**
+**SudhaGirishGeet**
 
 GitHub: [@sudhagirishgeet](https://github.com/sudhagirishgeet)
 
